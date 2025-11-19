@@ -1,0 +1,28 @@
+GIT AND GITHUB NOTES
+Name: Malik Abdullah
+Roll No: B25F2444AI176
+Class: BS AI
+
+GIT:
+- Version control system
+- Tracks code changes
+- Local tool
+
+GITHUB:
+- Online platform
+- Hosts Git repositories
+- Enables collaboration
+
+BASIC COMMANDS:
+1. git clone - Download repository
+2. git add - Stage changes
+3. git commit - Save changes
+4. git push - Upload to GitHub
+5. git status - Check status
+
+FILE STAGES:
+- Untracked: New files
+- Modified: Changed files
+- Staged: Ready to commit
+- Unmodified: No changes
+
